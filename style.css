@@ -1,0 +1,10 @@
+.banner-bg{
+    background: linear-gradient(180deg, rgba(54, 54, 54, 0.1), rgb(255, 255, 255), rgb(255, 255, 255) 100%);
+    background-blend-mode: overlay;
+}
+.mail-bgImg{
+    background-image: url('./assets/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
